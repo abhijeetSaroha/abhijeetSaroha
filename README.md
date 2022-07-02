@@ -10,7 +10,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhijeetSaroha&theme=github_dark&show_icons=true">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetSaroha">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetSaroha&hide=javascript,css,scss,html&theme=tokyonight>
 
 
 <h3 align="left">Connect with me:</h3>
