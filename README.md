@@ -10,7 +10,7 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijeetSaroha&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijeetSaroha&theme=vue-dark)
 
 
 <h3 align="left">Connect with me:</h3>
