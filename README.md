@@ -15,6 +15,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijeetSaroha&theme=vue-dark)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeetSaroha)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeetSaroha&hide=contribs,prs)
 
 
 <h3 align="left">Connect with me:</h3>
