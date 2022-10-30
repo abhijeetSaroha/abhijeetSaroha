@@ -1,8 +1,5 @@
 ### Ello, I'm Abhijeet Saroha :wave:
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p> -->
-![](https://gitwar.herokuapp.com/badge?username=abhijeetSaroha&color=green)
+
 
 - 👋 Hi, I’m tech devoted person. 
 - 👀 I’m interested in Machine Learning / Artificial Intelligence.
@@ -31,4 +28,4 @@ abhijeetSaroha/abhijeetSaroha is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![Snake animation](https://github.com/abhijeetSaroha/abhijeetSaroha/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/abhijeetSaroha/abhijeetSaroha/blob/output/github-contribution-grid-snake.svg) -->
