@@ -2,6 +2,7 @@
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p> -->
+![](https://gitwar.herokuapp.com/badge?username=abhijeetSaroha&color=green)
 
 - 👋 Hi, I’m tech devoted person. 
 - 👀 I’m interested in Machine Learning / Artificial Intelligence.
