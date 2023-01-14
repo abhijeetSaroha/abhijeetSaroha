@@ -1,4 +1,4 @@
-### Ello, I'm Abhijeet Saroha :wave:
+### Ello0, I'm Abhijeet Saroha :wave:
 
 
 - 👋 Hi, I’m tech devoted person. 
@@ -11,7 +11,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeetSaroha&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetSaroha&layout=compact&hide=html
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetSaroha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
